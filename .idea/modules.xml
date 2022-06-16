@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Toasty.iml" filepath="$PROJECT_DIR$/.idea/modules/Toasty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Toasty.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Toasty.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Toasty.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Toasty.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Toasty.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Toasty.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Toasty.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Toasty.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/showtoast/Toasty.showtoast.iml" filepath="$PROJECT_DIR$/.idea/modules/showtoast/Toasty.showtoast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/showtoast/Toasty.showtoast.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/showtoast/Toasty.showtoast.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/showtoast/Toasty.showtoast.main.iml" filepath="$PROJECT_DIR$/.idea/modules/showtoast/Toasty.showtoast.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/showtoast/Toasty.showtoast.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/showtoast/Toasty.showtoast.unitTest.iml" />
+    </modules>
+  </component>
+</project>
